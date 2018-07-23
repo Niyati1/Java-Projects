@@ -1,0 +1,6 @@
+PRINT 34
+PRINTLN "The value of A = " , A
+PRINT"HELLO"
+circum = (radius + radius) * 22 / 7
+println "Pay for ", hours, " at $", rate, " per hour is $", pay
+6.circumasdddddddddddddddddddddasdsadsaddddddddddddddasd
